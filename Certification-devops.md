@@ -5,13 +5,13 @@
 ### Red Hat Certified System Administrator (RHCSA) – EX200
 - **Level**: Entry-level system administration (RHEL)
 - **Format**: Hands-on lab (3 hours), pass ≥ 210/300
-- **Official Link**: [Apply for RHCSA](https://www.redhat.com/en/services/training-and-certification/ex200-rhcsa)
+- **Official Link**: [Apply for RHCSA](https://www.redhat.com/en/services/certifications)
 
 ### Red Hat Certified Engineer (RHCE) – EX300
 - **Level**: Advanced (automation with Ansible, networking, security)
 - **Prerequisite**: RHCSA required
 - **Format**: Hands-on lab (4 hours)
-- **Official Link**: [Apply for RHCE](https://www.redhat.com/en/services/training-and-certification/ex300-rhce)
+- **Official Link**: [Apply for RHCE](https://www.redhat.com/en/services/certifications)
 
 ### Red Hat Certified Specialist in Ansible Automation
 - **Level**: Specialist for automation/infrastructure
@@ -26,7 +26,7 @@
 - **Format**: 55 multiple-choice questions in 90 minutes
 - **Fee**: USD $195
 - **Domains**: Orchestration, Security, Networking, Storage
-- **Official Link**: [Apply for DCA](https://www.docker.com/certification/dca/)
+- **Official Link**: [Apply for DCA](https://training.mirantis.com/certification/dca-certification-exam/)
 
 ###  Certified Kubernetes Administrator (CKA)
 - **Format**: 2-hour hands-on CLI performance-based
